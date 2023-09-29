@@ -46,7 +46,7 @@ Before running the game, ensure you have the following prerequisites installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd rock-paper-scissors
+   cd Rock-Paper-Scissors
    ```
 
 3. Run the game:
